@@ -3,14 +3,14 @@
   "rules": [
     {
       "domain": [
-        "weixinsxy.com",
-        "wxapp.tc.qq.com"
+        "api.xhofe.top",
+        "api-cf.nn.ci"
       ]
     },
     {
       "domain_suffix": [
-        ".weixinsxy.com",
-        ".wxapp.tc.qq.com"
+        ".xhofe.top",
+        ".nn.ci"
       ]
     },
     {
