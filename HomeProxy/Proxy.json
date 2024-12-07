@@ -2,28 +2,11 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
+      "domain_suffix": [
+        "ip111.cn",
+        "browserleaks.com",
         "api.xhofe.top",
         "api-cf.nn.ci"
-      ]
-    },
-    {
-      "domain_suffix": [
-        ".xhofe.top",
-        ".docker.io",
-        ".nn.ci"
-      ]
-    },
-    {
-      "domain_keyword": [
-        "cherrytv",
-        "cherr"
-      ]
-    },
-    {
-      "ip_cidr": [
-        "129.226.3.47/32",
-        "162.62.163.63/32"
       ]
     }
   ]
