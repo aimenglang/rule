@@ -3,10 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "ip111.cn",
-        "browserleaks.com",
-        "api.xhofe.top",
-        "api-cf.nn.ci"
+        ".wxapp.tc.qq.com",
+        ".weixinsxy.com"
       ]
     }
   ]
