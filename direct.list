@@ -1,5 +1,5 @@
 # 直连补充列表
-
+DOMAIN-SUFFIX,ilucky.net
 # 域名后缀匹配
 DOMAIN-SUFFIX,baidu.com
 # 直连补充列表(国内域名不解析时，防止走代理使用)
