@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 # DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,581689.xyz
+DOMAIN-SUFFIX,089800.xyz
 DOMAIN-SUFFIX,aerianas.top
 DOMAIN-SUFFIX,sssyun.xyz
 DOMAIN-SUFFIX,qeayr.cn
@@ -28,7 +30,12 @@ DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
-
+IP-CIDR,140.245.99.73/32,no-resolve
+IP-CIDR,138.2.90.63/32,no-resolve
+IP-CIDR,138.2.66.180/32,no-resolve
+IP-CIDR,158.178.234.45/32,no-resolve
+IP-CIDR,152.70.88.93/32,no-resolve
+IP-CIDR,146.56.147.87/32,no-resolve
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
