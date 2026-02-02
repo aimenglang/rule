@@ -34,7 +34,7 @@ DOMAIN-SUFFIX,dbankcloud.cn
 
 # 中国电信
 DOMAIN-SUFFIX,id6.me
-DOMAIN-SUFFIX,open.e.189.cn
+##DOMAIN-SUFFIX,open.e.189.cn
 
 # 网络收集测试
 DOMAIN-SUFFIX,lcsdk.3g.qq.com
