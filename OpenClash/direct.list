@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,mengshao.com
+DOMAIN-SUFFIX,menglang.de
 # DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,581689.xyz
 DOMAIN-SUFFIX,089800.xyz
@@ -241,13 +241,13 @@ DOMAIN-SUFFIX,meitustat.com
 DOMAIN-SUFFIX,meipai.com
 
 # LeTV 乐视
-DOMAIN-SUFFIX,le.com
-DOMAIN-SUFFIX,lecloud.com
-DOMAIN-SUFFIX,letv.com
-DOMAIN-SUFFIX,letvcloud.com
-DOMAIN-SUFFIX,letvimg.com
-DOMAIN-SUFFIX,letvlive.com
-DOMAIN-SUFFIX,letvstore.com
+#DOMAIN-SUFFIX,le.com
+#DOMAIN-SUFFIX,lecloud.com
+#DOMAIN-SUFFIX,letv.com
+#DOMAIN-SUFFIX,letvcloud.com
+#DOMAIN-SUFFIX,letvimg.com
+#DOMAIN-SUFFIX,letvlive.com
+#DOMAIN-SUFFIX,letvstore.com
 
 # MGTV 芒果TV
 DOMAIN-SUFFIX,hitv.com
