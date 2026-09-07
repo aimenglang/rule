@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ip111.cn",
+        "browserleaks.com",
+        "api.xhofe.top",
+        "serv00.com",
+        "api-cf.nn.ci"
+      ]
+    }
+  ]
+}
