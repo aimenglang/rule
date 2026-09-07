@@ -1,1 +1,11 @@
-DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        ".xx",
+        ".aa"
+      ]
+    }
+  ]
+}
