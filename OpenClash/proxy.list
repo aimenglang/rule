@@ -25,6 +25,12 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
+DOMAIN-SUFFIX,fcm.googleapis.com
+DOMAIN-SUFFIX,accounts.google.com
+DOMAIN-SUFFIX,iid.googleapis.com
+DOMAIN-SUFFIX,android.apis.google.com
+DOMAIN-SUFFIX,device-provisioning .googleapis.com
+DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
 
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
