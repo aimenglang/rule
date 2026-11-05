@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,dbankcloud.cn
 ##DOMAIN-SUFFIX,hmrz.wo.cn
 ##DOMAIN-SUFFIX,nishub1.10010.com
 ##DOMAIN-SUFFIX,enrichgw.10010.com
+DOMAIN-SUFFIX,dm.wo.com.cn
 
 # 中国电信
 DOMAIN-SUFFIX,id6.me
